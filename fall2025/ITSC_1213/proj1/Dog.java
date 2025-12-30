@@ -17,7 +17,7 @@ public class Dog {
     }
     public String getName()
     {
-        return this.name;
+        return this.name; 
     }
 
     public void setBreed(String breed)
