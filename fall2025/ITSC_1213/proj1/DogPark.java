@@ -28,5 +28,4 @@ public class DogPark {
         d1.play(d2);
 
     }
-
-}
+}   
