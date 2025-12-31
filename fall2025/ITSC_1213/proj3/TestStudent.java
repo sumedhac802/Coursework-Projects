@@ -1,4 +1,4 @@
-package fall2025.ITSC_1213;
+package fall2025.ITSC_1213.proj3;
 
 import java.util.ArrayList;
 
@@ -36,3 +36,4 @@ public class TestStudent
         }
     }
 }
+
