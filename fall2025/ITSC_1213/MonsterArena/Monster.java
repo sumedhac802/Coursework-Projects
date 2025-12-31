@@ -1,12 +1,12 @@
-package fall2025.ITSC_1213.proj2;
- 
+package fall2025.ITSC_1213.MonsterArena;
+
 /**
  * Represents a monster with element and power level
  *
  * @author  ITSC 1213
  * @version April 9, 2025
  */
-
+ 
 public abstract class Monster implements Comparable<Monster>{
     protected String element;
     protected int powerLevel;

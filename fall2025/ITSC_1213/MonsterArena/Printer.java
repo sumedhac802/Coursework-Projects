@@ -1,8 +1,8 @@
-package fall2025.ITSC_1213.proj2;
+package fall2025.ITSC_1213.MonsterArena;
 
 // TODO: Implement the generic class Printer
 import java.util.ArrayList;
- 
+
 public class Printer<T>
 {
     protected ArrayList<T> listRef = new ArrayList<T>();
@@ -11,7 +11,7 @@ public class Printer<T>
     {
         this.listRef = listRef;
     }
-
+ 
     public void print()
     {
         for (T l : listRef)

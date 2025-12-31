@@ -1,6 +1,6 @@
 # Project Title and Description
 This project demonstrates how to use Java's Comparable<T> interface to compare and sort custom objects—in this case, Monsters—by their power level. It also includes a generic Printer<T> class to print object details in a reusable way.
- 
+
 # Setup
 - Open the project in your IDE.
 - Compile all files.

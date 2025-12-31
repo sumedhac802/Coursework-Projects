@@ -1,4 +1,4 @@
-package fall2025.ITSC_1213.proj2;
+package fall2025.ITSC_1213.MonsterArena;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -13,7 +13,7 @@ import java.util.Random;
  * @version April 9, 2025
  */
 public class MonsterArena {
-
+ 
     private ArrayList<Monster> monsterList = new ArrayList<>();
 
     /**
